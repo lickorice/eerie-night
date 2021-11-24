@@ -1,0 +1,21 @@
+{
+    "name": "monokai-eerie-night",
+    "displayName": "Monokai Eerie Night",
+    "description": "A customized Monokai theme made to resemble Nier:Automata color schemes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Eerie Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Eerie Night-color-theme.json"
+            }
+        ]
+    }
+}
