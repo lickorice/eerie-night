@@ -1,6 +1,7 @@
 {
     "name": "monokai-eerie-night",
     "displayName": "Monokai Eerie Night",
+    "publisher": "cgpanganiban",
     "description": "A customized Monokai theme made to resemble Nier:Automata color schemes",
     "version": "0.0.1",
     "engines": {
@@ -17,5 +18,9 @@
                 "path": "./themes/Monokai Eerie Night-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/lickorice/eerie-night",
+        "type": "git"
     }
 }
